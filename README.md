@@ -34,7 +34,7 @@ Using the 5 eGamers from each country
 1. Develop a crawler to crawl the gaming discussion in Twitch, Youtube Gaming, or Facebook Gaming
 2. Use statistical method/AI/text mining to find out the discussion topics, community interactions, favorite eGames and eGaming stars, etc.
 3. Develop a eGames discussion taxonomy database (i.e. a set of keywords) that can map the vocabularies of the eGaming discussion to the list of target analysis.
-4. Use AI-Writer to write research summaries about the top 5 eGamers from each countries listed above.**
+4. Use AI-Writer or any [NLP (natural language processsing) engine](https://opensource.com/article/19/3/natural-language-processing-tools) to write research summaries about the top 5 eGamers from each countries listed above.
 
 # What is eGaming?
 

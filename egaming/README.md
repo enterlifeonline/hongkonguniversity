@@ -24,9 +24,5 @@
 
 [![Facebook Analytics API](https://img.youtube.com/vi/ZImNusQ0I6g/0.jpg)](https://www.youtube.com/watch?v=ZImNusQ0I6g)
 
-### AI-Writer
 
-[Watch Video](https://www.youtube.com/watch?v=MdI6nvxseEA)
-
-[![Facebook Analytics API](https://img.youtube.com/vi/MdI6nvxseEA/0.jpg)](https://www.youtube.com/watch?v=MdI6nvxseEA)
 
