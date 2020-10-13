@@ -1,8 +1,46 @@
-# eGaming
+ # Project: Using AI for eGaming Analytics to Discover Community Interactions and Interests 
+
+[Watch Video](https://www.youtube.com/watch?v=xxx)
+
+[![Project eGaming](https://img.youtube.com/vi/xxx/0.jpg)](https://www.youtube.com/watch?v=xxx)
+
+eGaming consists of multiple data streams:
+
+- live or recorded video
+- live or recorded audio
+- live or recorded text chat
+- live or saved commenting
+
+Each of these are hosted on different social media platforms:
+
+- Facebook
+- Twitch
+- YouTube
+
+In the above data streams, conversations are had around topics around gaming PCs, accessories, tips & tricks to win the game, community discussions around teamwork, and ***hot topics*** around current events.  
+
+## Goals
+
+The goal of this project is to use harvested data to determine:
+
+Using the 5 eGamers from each country 
+
+- [Singapore](https://www.esportsearnings.com/countries/sg)
+- [Korea](https://www.esportsearnings.com/countries/kr)
+- [USA](https://www.esportsearnings.com/countries/us)
+- [China](https://www.esportsearnings.com/countries/cn)
+- [Australia](https://www.esportsearnings.com/countries/au) 
+
+1. Develop a crawler to crawl the gaming discussion in Twitch, Youtube Gaming, or Facebook Gaming
+2. Use statistical method/AI/text mining to find out the discussion topics, community interactions, favorite eGames and eGaming stars, etc.
+3. Develop a eGames discussion taxonomy database (i.e. a set of keywords) that can map the vocabularies of the eGaming discussion to the list of target analysis.
+4. Use AI-Writer to write research summaries about the top 5 eGamers from each countries listed above.**
+
+# What is eGaming?
 
 ![image](images/egaming.jpg)
 
-Esports (also known as electronic sports, e-sports, or eSports) is a form of sport competition using video games.
+eGaming (also known as electronic sports, e-sports, or eSports) is a form of sport competition using video games.
 
 Esports often takes the form of organized, multiplayer video game competitions, particularly between professional players, individually or as teams. Although organized competitions have long been a part of video game culture, these were largely between amateurs until the late 2000s, when participation by professional gamers and spectatorship in these events through live streaming saw a large surge in popularity.
 
@@ -43,40 +81,6 @@ Facebook Gaming is transforming how people stream online. As the social media gi
 Microsoft’s choice to partner with Facebook is clearly a strategic one that’s also related to broadening the appeal of its upcoming xCloud game streaming service and its overall gaming efforts. Microsoft will work closely with Facebook to bring xCloud to Facebook Gaming, allowing viewers to click and immediately play games that people are streaming.  [See the top Facebook streamers here.](
 https://www.ranker.com/list/best-facebook-gaming-streamers/ranker-games)
 
-# Project: eGaming
-
-eGaming consists of multiple data streams:
-
-- live or recorded video
-- live or recorded audio
-- live or recorded text chat
-- live or saved commenting
-
-In the above data streams, conversations are had around topics around gaming PCs, accessories, tips & tricks to win the game, community discussions around teamwork, and ***hot topics*** around current events.  
-
-## Goals
-
-The goal of this project is to use harvested data to determine:
-
-Using the 5 eGamers from each country 
-
-- [Singapore](https://www.esportsearnings.com/countries/sg)
-- [Korea](https://www.esportsearnings.com/countries/kr)
-- [USA](https://www.esportsearnings.com/countries/us)
-- [China](https://www.esportsearnings.com/countries/cn)
-- [Australia](https://www.esportsearnings.com/countries/au) 
-
-**1. Determine the number of views per eGamer**
-
-- over one (1) week 
-- over one (1) month 
-
-**2. Determine the top five (5) discussed topics (audio, chat)** 
-
-- over one (1) week 
-- over one (1) month 
-
-**3. Use AI-Writer to write research summaries about the top 5 eGamers from each countries listed above.**
 
 
 
