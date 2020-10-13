@@ -54,4 +54,18 @@ eGaming consists of multiple data streams:
 
 In the above data streams, conversations are had around topics around gaming PCs, accessories, tips & tricks to win the game, community discussions around teamwork, and ***hot topics*** around current events.  
 
- 
+## Goals
+
+The goal of this project is to use harvested data to determine:
+
+Using the 5 eGamers from each country 
+
+- [Singapore](https://www.esportsearnings.com/countries/sg)
+- [Korea](https://www.esportsearnings.com/countries/kr)
+- [USA](https://www.esportsearnings.com/countries/us)
+- [China](https://www.esportsearnings.com/countries/cn)
+- [Australia](https://www.esportsearnings.com/countries/au) 
+
+The number of views over one (1) week, one (1) month for each of these eGamers, and the top five (5) discussed topics (audio, chat) for each eGamer over one (1) week, one (1) month.
+
+
