@@ -1,4 +1,4 @@
-# eGaming Analytics
+# eGaming
 
 ![image](images/egaming.jpg)
 
@@ -42,3 +42,16 @@ Facebook Gaming is transforming how people stream online. As the social media gi
 
 Microsoft’s choice to partner with Facebook is clearly a strategic one that’s also related to broadening the appeal of its upcoming xCloud game streaming service and its overall gaming efforts. Microsoft will work closely with Facebook to bring xCloud to Facebook Gaming, allowing viewers to click and immediately play games that people are streaming.  [See the top Facebook streamers here.](
 https://www.ranker.com/list/best-facebook-gaming-streamers/ranker-games)
+
+# Project: eGaming
+
+eGaming consists of multiple data streams:
+
+- live or recorded video
+- live or recorded audio
+- live or recorded text chat
+- live or saved commenting
+
+In the above data streams, conversations are had around topics around gaming PCs, accessories, tips & tricks to win the game, community discussions around teamwork, and ***hot topics*** around current events.  
+
+ 
