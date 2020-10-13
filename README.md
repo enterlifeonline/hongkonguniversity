@@ -1,8 +1,8 @@
  # Project: Using AI for eGaming Analytics to Discover Community Interactions and Interests 
 
-[Watch Video](https://www.youtube.com/watch?v=xxx)
+[Watch Video](https://www.youtube.com/watch?v=7ARXfhPbzVo)
 
-[![Project eGaming](https://img.youtube.com/vi/xxx/0.jpg)](https://www.youtube.com/watch?v=xxx)
+[![Project eGaming](https://img.youtube.com/vi/7ARXfhPbzVo/0.jpg)](https://www.youtube.com/watch?v=7ARXfhPbzVo)
 
 eGaming consists of multiple data streams:
 
