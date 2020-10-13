@@ -66,6 +66,17 @@ Using the 5 eGamers from each country
 - [China](https://www.esportsearnings.com/countries/cn)
 - [Australia](https://www.esportsearnings.com/countries/au) 
 
-The number of views over one (1) week, one (1) month for each of these eGamers, and the top five (5) discussed topics (audio, chat) for each eGamer over one (1) week, one (1) month.
+1. Determine the number of views per eGamer
+
+- over one (1) week 
+- over one (1) month 
+
+2. Determine the top five (5) discussed topics (audio, chat) 
+
+- over one (1) week 
+- over one (1) month 
+
+3. Use AI-Writer to write research summaries about the top 5 eGamers from each countries listed above.
+
 
 
