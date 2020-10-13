@@ -42,34 +42,3 @@ Facebook Gaming is transforming how people stream online. As the social media gi
 
 Microsoft’s choice to partner with Facebook is clearly a strategic one that’s also related to broadening the appeal of its upcoming xCloud game streaming service and its overall gaming efforts. Microsoft will work closely with Facebook to bring xCloud to Facebook Gaming, allowing viewers to click and immediately play games that people are streaming.  [See the top Facebook streamers here.](
 https://www.ranker.com/list/best-facebook-gaming-streamers/ranker-games)
-
-#### YouTube Analytics API
-
-[Watch Video](https://www.youtube.com/watch?v=XumcNPRyUHg)
-
-[![YouTube Analytics API](https://img.youtube.com/vi/XumcNPRyUHg/0.jpg)](https://www.youtube.com/watch?v=XumcNPRyUHg)
-
-#### Twitch Analytics
-
-[Watch Video](https://www.youtube.com/watch?v=nASfFE9kIas)
-
-[![Twitch Analytics API](https://img.youtube.com/vi/nASfFE9kIas/0.jpg)](https://www.youtube.com/watch?v=nASfFE9kIas)
-
-#### Twitter Analytics
-
-[Watch Video](https://www.youtube.com/watch?v=ujId4ipkBio)
-
-[![Twitter Analytics API](https://img.youtube.com/vi/ujId4ipkBio/0.jpg)](https://www.youtube.com/watch?v=ujId4ipkBio)
-
-#### Facebook Scraper
-
-[Watch Video](https://www.youtube.com/watch?v=ZImNusQ0I6g)
-
-[![Facebook Analytics API](https://img.youtube.com/vi/ZImNusQ0I6g/0.jpg)](https://www.youtube.com/watch?v=ZImNusQ0I6g)
-
-### AI-Writer
-
-[Watch Video](https://www.youtube.com/watch?v=MdI6nvxseEA)
-
-[![Facebook Analytics API](https://img.youtube.com/vi/MdI6nvxseEA/0.jpg)](https://www.youtube.com/watch?v=MdI6nvxseEA)
-
